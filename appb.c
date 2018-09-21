@@ -1,4 +1,5 @@
 /*
+<<<<<<< HEAD
 this is to add similar comments
 
 */
@@ -17,3 +18,9 @@ int main(void){
 
   return 0;
 }
+=======
+
+test setset stets et saeasglkajhgkashjfhasdkfjh
+
+*/
+>>>>>>> new1
