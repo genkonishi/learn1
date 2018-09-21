@@ -6,6 +6,33 @@
 int main(void){
 
 
+//comment
+//comment//comment
+//comment//comment//comment
+
+
+
+
+//comment
+//comment//comment
+
+//comment
+
+
+//comment//comment
+//comment
+
+
+//comment//comment//comment//comment
+//comment
+
+
+//comment//comment
+//comment
+
+
+//comment//comment
+//comment
 
 
 
